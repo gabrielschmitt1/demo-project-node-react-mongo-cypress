@@ -67,6 +67,10 @@ form {
     }
   }
 
+  & span {
+    align-content: center;
+  }
+
   & button {
     background-color: transparent;
     border: none;
